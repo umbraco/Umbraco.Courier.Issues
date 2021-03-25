@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: https://umbraco.com/about-us/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/
+    about: Security issues for Umbraco Courier can be reported by following the instructions here 🔐
+  - name: Other issues
+    url: https://umbraco.com/blog/announcement-support-lts-and-eol-for-umbraco-cms-cloud-and-packages/
+    about: We're not longer accepting new issue reports as Umbraco Courier has entered the security phase in March 2021
